@@ -1,0 +1,346 @@
+/* 北主楼 */
+.beizhulou ul{
+    width: 1.5625rem;
+    height: 1.09375rem;
+    margin: 0;
+   padding: 0;
+   position: absolute;
+  list-style: none;
+  display: inline-block;
+  background-color: #708f8d;
+  border-radius: .078125rem;
+ 
+  font-size: .21875rem;
+  transform: scale(0.54);
+}
+/* 楼层标识 */
+/* 北主楼第二层 */
+.beizhulou002{
+    position: absolute;
+    /* background-color: aqua; */
+    width: 6.25rem;
+    top: 8.85rem;
+    left: 6.5rem;
+}
+/* 第三层 */
+.beizhulou003{
+    position: absolute;
+    /* background-color: aqua; */
+    width: 6.25rem;
+    top: 8.075rem;
+    left: 6.5rem;
+}
+/* 第四层 */
+.beizhulou004{
+    position: absolute;
+    /* background-color: aqua; */
+    width: 6.25rem;
+    top: 7.2875rem;
+    left: 6.5rem;
+}
+/* 第五层 */
+.beizhulou005{
+    position: absolute;
+    /* background-color: aqua; */
+    width: 6.25rem;
+    top: 6.5rem;
+    left: 6.5rem;
+}
+/* 第六层 */
+.beizhulou006{
+    position: absolute;
+    /* background-color: aqua; */
+    width: 6.25rem;
+    top: 5.725rem;
+    left: 6.5rem;
+}
+/* 第七层 */
+.beizhulou007{
+    position: absolute;
+    /* background-color: aqua; */
+    width: 6.25rem;
+    top: 4.9375rem;
+    left: 6.5rem;
+}
+/* 第八层 */
+.beizhulou008{
+    position: absolute;
+    /* background-color: aqua; */
+    width: 6.25rem;
+    top: 4.125rem;
+    left: 6.5rem;
+}
+/* 第九层 */
+.beizhulou009{
+    position: absolute;
+    /* background-color: aqua; */
+    width: 6.25rem;
+    top: 3.35rem;
+    left: 6.5rem;
+}
+/* 第十层 */
+.beizhulou0010{
+    position: absolute;
+    /* background-color: aqua; */
+    width: 6.25rem;
+    top: 2.575rem;
+    left: 6.5rem;
+}
+/* 第十一层 */
+.beizhulou0011{
+    position: absolute;
+    /* background-color: aqua; */
+    width: 6.25rem;
+    top: 1.75rem;
+    left: 6.5rem;
+}
+.beizhulou_201{
+    float: left;
+    font-size: .15rem;
+    transform: scale(0.7);
+    margin-left: .375rem;
+}
+.beizhulou_202{
+    float: left;
+    font-size: .15rem;
+    transform: scale(0.7);
+    margin-left: 1.125rem;
+}
+.beizhulou_203{
+    float: left;
+    font-size: .15rem;
+    transform: scale(0.7);
+    margin-left: .9375rem;
+}
+.beizhulou_204{
+    float: left;
+    font-size: .15rem;
+    transform: scale(0.7);
+    margin-left: .9375rem;
+}
+.beizhulou_205{
+    float: left;
+    font-size: .15rem;
+    transform: scale(0.7);
+    margin-left: .975rem;
+}
+/* 第十和十一的左右间隔与其他不同 */
+.beizhulou_101_11{
+    float: left;
+    font-size: .15rem;
+    transform: scale(0.6);
+    margin-left: .375rem;
+}
+.beizhulou_102_11{
+    float: left;
+    font-size: .15rem;
+    transform: scale(0.6);
+    margin-left: 1rem;
+}
+.beizhulou_103_11{
+    float: left;
+    font-size: .15rem;
+    transform: scale(0.6);
+    margin-left: .875rem;
+}
+.beizhulou_104_11{
+    float: left;
+    font-size: .15rem;
+    transform: scale(0.6);
+    margin-left: .75rem;
+}
+.beizhulou_105_11{
+    float: left;
+    font-size: .15rem;
+    transform: scale(0.6);
+    margin-left: .9125rem;
+}
+.beizhulou201_left{
+    left:6.3125rem;;
+} 
+.beizhulou202_left{
+    left: 7.65625rem;
+
+
+}
+.beizhulou203_left{
+    left: 8.828125rem;
+
+}
+.beizhulou204_left{
+    left: 10rem;
+
+}
+.beizhulou205_left{
+    left: 11.375rem;
+
+}
+
+.beizhulou2_top{
+    top: 8.796875rem;
+ }
+
+ 
+.beizhulou3_top{
+    top:8.03125rem;
+ }
+ .beizhulou4_top{
+    top:7.234375rem;
+ }
+ .beizhulou5_top{
+    top:6.4375rem;
+ }
+ .beizhulou6_top{
+    top:5.65625rem;
+ }
+ .beizhulou7_top{
+    top:4.890625rem;
+ }
+ .beizhulou8_top{
+    top:4.078125rem;
+ }
+
+ .beizhulou9_top{
+    top:3.28125rem;
+ }
+
+
+ .beizhulou10_top{
+    top:2.5rem;
+ }
+ .beizhulou11_top{
+    top:1.71875rem;
+ }
+
+ .class_11{
+     position: absolute;
+     top:1.875rem;
+     left: 6.4375rem;
+     width: 6.375rem;
+     height: .8rem;
+     border: solid 2px black;
+     opacity: 0;
+     /* background-color: blue; */
+ }
+ .class_10{
+    position: absolute;
+    top:2.7125rem;
+    left: 6.4375rem;
+    width: 6.375rem;
+    height: .8rem;
+    border: solid 2px black;
+    opacity: 0;
+    /* background-color: blue; */
+ 
+}
+.class_9{
+    position: absolute;
+    top:3.5rem;
+    left: 6.4375rem;
+    width: 6.375rem;
+    height: .8rem;
+    border: solid 2px black;
+    opacity: 0;
+    /* background-color: blue; */
+}
+.class_8{
+    position: absolute;
+    top:4.325rem;
+    left: 6.4375rem;
+    width: 6.375rem;
+    height: .8rem;
+    border: solid 2px black;
+    opacity: 0;
+    /* background-color: blue; */
+}
+.class_7{
+    position: absolute;
+    top:5.075rem;
+    left: 6.4375rem;
+    width: 6.375rem;
+    height: .8rem;
+    border: solid 2px black;
+    opacity: 0;
+    /* background-color: blue; */
+}
+.class_6{
+    position: absolute;
+    top:5.825rem;
+    left: 6.4375rem;
+    width: 6.375rem;
+    height: .8rem;
+    border: solid 2px black;
+    opacity: 0;
+    /* background-color: blue; */
+}
+.class_5{
+    position: absolute;
+    top:6.575rem;
+    left: 6.4375rem;
+    width: 6.375rem;
+    height: .8rem;
+    border: solid 2px black;
+    opacity: 0;
+    /* background-color: blue; */
+}
+.class_4{
+    position: absolute;
+    top:7.3625rem;
+    left: 6.4375rem;
+    width: 6.375rem;
+    height: .8rem;
+    border: solid 2px black;
+    opacity: 0;
+    /* background-color: blue; */
+}
+.class_3{
+    position: absolute;
+    top:8.15rem;
+    left: 6.4375rem;
+    width: 6.375rem;
+    height: .8rem;
+    border: solid 2px black;
+    opacity: 0;
+    /* background-color: rgb(214, 201, 21); */
+}
+.class_2{
+    position: absolute;
+    top:8.9375rem;
+    left: 6.4375rem;
+    width: 6.375rem;
+    height: .8rem;
+    border: solid 2px black;
+    opacity: 0;
+    /* background-color: blue; */
+}
+.class_2:hover{
+    opacity: 1;
+}
+.class_3:hover{
+    opacity: 1;
+}
+.class_4:hover{
+    opacity: 1;
+}
+.class_5:hover{
+    opacity: 1;
+}
+.class_6:hover{
+    opacity: 1;
+}
+.class_7:hover{
+    opacity: 1;
+}
+.class_8:hover{
+    opacity: 1;
+}
+.class_9:hover{
+    opacity: 1;
+}
+.class_10:hover{
+    opacity: 1;
+}
+.class_11:hover{
+    opacity: 1;
+}
+

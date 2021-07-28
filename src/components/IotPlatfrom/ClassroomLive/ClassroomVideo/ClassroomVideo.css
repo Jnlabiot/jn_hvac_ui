@@ -1,0 +1,8 @@
+.classroom_video{
+    /* background-color: chocolate; */
+    float: left;
+    margin-left: 1%;
+    width:10.245625rem;
+    height: 100%;
+    border: 1px solid black;
+}

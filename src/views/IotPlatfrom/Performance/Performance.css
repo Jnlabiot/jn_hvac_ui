@@ -1,0 +1,198 @@
+
+.bg{
+    width: 100%;
+    height: 100%;
+    background-color:  #ececec;
+
+}
+/* 盒子与盒子之间的间隔 */
+.mymargin1{
+    width: 100%;
+    height: 40px;
+}
+/* 控制台模块 */
+.console{
+    border-radius: 5px;
+    background-color: #fff;
+    margin: 0 auto;
+    padding: 20px 20px;
+    width: 21.75rem;
+    overflow: hidden;
+    /* 清除浮动 */
+}
+.consoletitle{
+    float: left;
+}
+.consoleversion{
+    padding-bottom: 40px;
+    width: 2.5rem;
+    height: .875rem;
+    border: solid 2px;
+    border-radius: 10px;
+    margin-right: 50px;
+    float: right;
+}
+.mymargin{
+    width: 100%;
+    height: 20px;
+}
+/* 系统信息 */
+.system_info{
+    
+    border-radius: 8px;
+    margin:  0 auto;
+    padding: 20px 20px;
+    width: 21.75rem;
+    background-color: #fff;
+    overflow: hidden
+    /* 清除浮动; */
+}
+.consoleversion:hover{
+    background-color: cornflowerblue;
+}
+.info_card_1{
+    padding: 10px 0;
+    border-radius: 10px;
+    width: 4.375rem;
+    height: 1rem;
+    float: left;
+    position: relative;
+    border: solid 1px;
+    margin-left: .75rem;
+
+}
+.info_card_2{
+    padding: 10px 0;
+    border-radius: 10px;
+    position: relative;
+    width: 4.375rem;
+    height: 1rem;
+    float: left;
+    border: solid 1px;
+    margin-left: .75rem;
+    
+}
+.info_card_3{
+    padding: 10px 0;
+    position: relative;
+    border-radius: 10px;
+    width: 4.375rem;
+    height: 1rem;
+    float: right;
+    border: solid 1px;
+    margin-right: .75rem;
+}
+.info_card_4{
+    padding: 10px 0;
+    position: relative;
+    /* 相对定位，是为了确定，框中字的位置 */
+    border-radius: 10px;
+    width: 4.375rem;
+    height: 1rem;
+    float: right;
+    border: solid 1px;
+    margin-right: .75rem;
+    
+}
+.info_card_1:hover{
+    background-color: cornflowerblue;
+}
+.info_card_2:hover{
+    background-color: cornflowerblue;
+}
+.info_card_3:hover{
+    background-color: cornflowerblue;
+}
+.info_card_4:hover{
+    background-color: cornflowerblue;
+}
+/* 卡片中的内容定位 */
+.card_1_title{
+    position: absolute;
+    top: .25rem;
+    left: 3.125rem;
+}
+.card_2_title{
+    position: absolute;
+    top: .25rem;
+    left: 3.125rem;
+}
+.card_3_title{
+    position: absolute;
+    top: .25rem;
+    left: 3.125rem;
+}
+.card_4_title{
+    position: absolute;
+    top: .25rem;
+    left: 3.125rem;
+}
+
+.car_1_value{
+    position: absolute;
+    top: .625rem;
+    left: 3.125rem;
+}
+.car_2_value{
+    position: absolute;
+    top: .625rem;
+    left: 3.125rem;
+}
+.car_3_value{
+    position: absolute;
+    top: .625rem;
+    left: 1.375rem;
+}
+.car_4_value{
+    position: absolute;
+    top: .625rem;
+    left: 1.375rem;
+}
+/* 节点信息 */
+.node_information{
+    background-color: #fff;
+    width: 21.25rem;
+    border-radius: 5px;
+    margin: 0 auto;
+    
+   padding-bottom: 20px;
+}
+.node_table{
+    /* 边框 */
+    /* 自动出现移动条 */
+
+    overflow: auto;
+    text-align: center;
+    border-collapse: collapse;
+    background-color: #fff;
+    margin: auto;
+    width: 21.25rem;
+}
+.node_table ,td,th{
+    border: 1px solid black;
+   
+}
+
+.tablepadding{
+    padding: 20px 0;
+}
+/* 运行统计 */
+.runing_statistical{
+    border-radius: 8px;
+    width: 21.25rem;
+    background-color: #fff;
+    margin: 0 auto;
+    padding-bottom: 20px;
+}
+.runing_table{
+    text-align: center;
+    border-collapse: collapse;
+    width: 21.25rem;
+  
+}
+tr:hover{
+    background-color: cornflowerblue;
+}
+.runing_table_padding{
+    padding: 10px 0;
+}

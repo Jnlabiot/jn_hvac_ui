@@ -1,0 +1,20 @@
+.classroom_bg{
+    width: 21.125rem;
+    height: 100%;
+}
+.classroom_title{
+    text-align: center;
+    /* background-color: blueviolet; */
+    width: 100%;
+    height: 5%;
+}
+/* 页面分为三部分
+标题，
+视频，温度场
+风机等数据，温度，湿度 */
+.classroom_top{
+    /* background-color: cadetblue; */
+    width: 100%;
+    height: 60%;
+    margin-bottom: 0.5%;
+}

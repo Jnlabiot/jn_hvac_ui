@@ -1,0 +1,61 @@
+.Total{
+    display: inline;
+}
+.Total table {
+    border-collapse: collapse;
+    text-align: center;
+    font-size: .15rem;
+
+}
+.Total table, td, th {
+    border: 1px solid black;
+
+}
+.bgcolor{
+    display: inline;
+    position: absolute;
+    background-color: #deebf7;
+    top: 1.25rem;
+    left: 7.75rem;
+    width: 4.375rem;
+    height: 2.5rem;
+}
+/* 表格颜色和字体颜色 */
+.bg_blue{
+    background-color: #2f75b5;
+    color: #ffffff;
+}
+.bg_white{
+    background-color: #ffffff;
+    color: black;
+}
+.table1{
+    display: inline;
+    width: 3.125rem;
+}.table1>table{
+    position: absolute;
+    top: 1.3125rem;
+    left: 8.5rem;
+    
+}
+
+.table2{
+    display: inline;
+    width: 3.125rem;
+}.table2>table{
+    position: absolute;
+    top: 2.5rem;
+    left: 8rem;
+   
+}
+/* 使两个表的第二三四列等宽 */
+.row1{
+    width: 1rem;
+}
+.row2{
+    width: 1.25rem;
+}
+.row3{
+    width: 1.25rem;
+
+}

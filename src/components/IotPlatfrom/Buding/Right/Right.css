@@ -1,0 +1,146 @@
+/* 马兰芳 */
+.malanfang ul{
+    width: 1.25rem;
+    height: 1.25rem;
+    margin: 0;
+   padding: 0;
+   position: absolute;
+  list-style: none;
+  display: inline-block;
+  background-color: #708f8d;
+  border-radius: .078125rem;
+ 
+  font-size: .21875rem;
+  transform: scale(0.54);
+}
+
+
+/* 马兰芳第一层 */
+.malanfang101_left{
+    left: 13.515625rem;
+}
+.malanfang102_left{
+  left: 14.703125rem;
+}
+.malanfang103_left{
+   left: 16.40625rem;
+}
+.malanfang104_left{
+   left: 17.65625rem;
+}
+
+/* 第二层 */
+.malanfang201_left{
+    left: 13.515625rem;
+}
+.malanfang202_left{
+  left: 14.703125rem;
+}
+.malanfang203_left{
+   left: 16.40625rem;
+}
+.malanfang204_left{
+   left: 17.625rem;
+}
+
+/* 第一层 */
+.malanfang1_top{
+    top: 9.6875rem;
+}
+.malanfang2_top{
+    top: 8.75rem;
+}
+.malanfang3_top{
+    top: 7.96875rem;
+}
+.malanfang4_top{
+    top: 7.1875rem;
+}
+
+.malanfang5_top{
+    top: 6.40625rem;
+}
+/* 马兰芳楼层标识 */
+/* 第一层 */
+.malanfang001{
+    width: 5.25rem;
+    /* background-color: aqua; */
+    position: absolute;
+    top: 9.8rem;
+    left: 13.6rem;
+    clear: both;
+}
+.malanfang001 h3{
+ transform: scale(0.6);
+}
+/* 第二层 */
+.malanfang002{
+    width: 5.25rem;
+    /* background-color: aqua; */
+    position: absolute;
+    top: 8.875rem;
+    left: 13.6rem;
+    clear: both;
+}
+.malanfang002 h3{
+ transform: scale(0.6);
+}
+/* 第三层 */
+.malanfang003{
+    width: 5.25rem;
+    /* background-color: aqua; */
+    position: absolute;
+    top: 8.1125rem;
+    left: 13.6rem;
+    clear: both;
+}
+.malanfang003 h3{
+ transform: scale(0.6);
+}
+/* 第四层 */
+.malanfang004{
+    width: 5.25rem;
+    /* background-color: aqua; */
+    position: absolute;
+    top: 7.3125rem;
+    left: 13.6rem;
+    clear: both;
+}
+.malanfang004 h3{
+ transform: scale(0.6);
+}
+/* 第五层 */
+.malanfang005{
+    width: 5.25rem;
+    /* background-color: aqua; */
+    position: absolute;
+    top: 6.5rem;
+    left: 13.6rem;
+    clear: both;
+}
+.malanfang005 h3{
+ transform: scale(0.6);
+}
+.huanghaochuan104{
+  
+    float: left;
+    margin-left: .375rem;
+    font-size: .15rem;
+    
+   }
+   .huanghaochuan103{
+      
+       float: left;
+       margin-left: .875rem;
+       font-size: .15rem;
+   }
+   .huanghaochuan102{
+       float: left;
+       margin-left: 1.5rem;
+       font-size: .15rem;
+   }
+   .huanghaochuan101{
+       float: left;
+       margin-left: 1rem;
+       font-size: .15rem;
+   }

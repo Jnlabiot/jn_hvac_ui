@@ -1,0 +1,81 @@
+.live_right_top{
+    /* width: 100%; */
+    width: 10.125rem;
+    height: 44%;
+    margin-bottom: 1%;
+    /* background-color: burlywood; */
+    border: black solid 1px;
+    clear: both;
+  }
+           .live_senser{
+               float: left;
+                 width: 4.05rem;
+                 height: 100%;
+                 /* background-color: blueviolet; */
+                 text-align: center;
+                 overflow: auto;
+                 border: black solid 1px;
+         }
+            .dianya{
+                background-color: rgb(93, 165, 247);
+                margin: .0625rem .0625rem;
+                width: 1.5rem;
+                float: left;
+                font-size: .175rem;
+                transform: scale(0.9);
+             
+            }
+            .dianliu{
+                background-color: rgb(93, 165, 247);
+                margin: .0625rem .0625rem;
+                width: 1.5rem;
+                float: left;
+                font-size: .175rem;
+                transform: scale(0.9);
+            }
+            .gonglv{
+                background-color: rgb(93, 165, 247);
+                margin: .0625rem .0625rem;
+                width: 1.5rem;
+                float: left;
+                font-size: .175rem;
+                transform: scale(0.9);
+            }
+            .dianneng{
+                background-color: rgb(93, 165, 247);
+                margin: .0625rem .0625rem;
+                width: 1.5rem;
+                float: left;
+                font-size: .175rem;
+                transform: scale(0.9);
+            }
+            .wendu{
+                background-color: rgb(93, 165, 247);
+                margin: .0625rem .0625rem;
+                width: 1.5rem;
+                float: left;
+                font-size: .175rem;
+                transform: scale(0.9);
+            }
+            .shidu{
+                background-color: rgb(93, 165, 247);
+                margin: .0625rem .0625rem;
+                width: 1.5rem;
+                float: left;
+                font-size: .175rem;
+                transform: scale(0.9);
+            }
+            .senser_co2{
+                background-color: rgb(93, 165, 247);
+                margin: .0625rem .0625rem;
+                width: 1.5rem;
+                float: left;
+                font-size: .175rem;
+                transform: scale(0.9);
+            }
+            .live_electricity_line{
+                float: right;
+                /* background-color: aqua; */
+                 width: 59%;
+               height: 100%;
+            }

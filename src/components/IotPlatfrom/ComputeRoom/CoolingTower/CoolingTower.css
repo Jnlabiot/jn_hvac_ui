@@ -1,0 +1,60 @@
+.CoolingTower{
+    display: inline;
+}
+.CoolingTower table {
+    border-collapse: collapse;
+    color: #ffffff;
+    font-size: .15rem;
+    width: .675rem;
+    height: .625rem;
+
+}
+.CoolingTower table, td, th {
+    border: 1px solid black;
+
+}
+/* 标题 */
+.towertitle1{
+    position: absolute;
+    display: inline;
+    top: 2.55rem;
+    left: .4375rem;
+    font-size: .15rem;
+}
+.towertitle2{
+    position: absolute;
+    display: inline;
+    top: 2.775rem;
+    left: .4375rem;
+    font-size: .15rem;
+}
+/* 定位 */
+.towertop{
+    display: inline;
+    position: absolute;
+    top: 2.25rem;
+}
+.towerleft1{
+    left: .9125rem;
+}
+.towerleft2{
+    left: 1.6125rem;
+}
+.towerleft3{
+    left: 2.3rem;
+}
+.towerleft4{
+    left: 3rem;
+}
+.towerleft5{
+    left: 3.7rem;
+}
+.towerleft6{
+    left: 4.425rem;
+}
+.towerleft7{
+    left: 5.1375rem;
+}
+.towerleft8{
+    left: 5.8125rem;
+}

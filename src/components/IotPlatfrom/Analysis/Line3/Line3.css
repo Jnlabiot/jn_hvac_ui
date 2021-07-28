@@ -1,0 +1,17 @@
+.line_title{
+
+    width: 98%;
+    margin: 0 auto;
+    background-color: #fff;
+    height: 10%;
+}
+.line2{
+    background-color: #fff;
+    margin: 0 auto;
+    width: 98%;
+    height: 90%;
+}
+.ant-tabs-content{
+    width: 98%;
+    height: 65%;
+}

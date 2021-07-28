@@ -1,0 +1,17 @@
+.myright>h1{
+    margin-top: 1.25rem;
+}
+.myright{
+    display: inline-block;
+    text-align: center;
+    float: right;
+    width:48%;
+    /* background-color:cadetblue; */
+    height: 100%;
+}
+.containright{
+    width: 90%;
+    height: 80%;
+    margin: 0 auto;
+    /* background-color: cornflowerblue; */
+}

@@ -1,0 +1,66 @@
+
+.lab_introduce{
+    width: 12.5rem;
+    margin: 20px auto;
+   background-color: #F6FDFF;
+   color:#0E62AA;
+}
+.img_show{
+    
+   margin: 20px auto;
+   width: 12.5rem;
+}
+.img_show_top{
+    /* background-color:aqua ; */
+    width: 12.5rem;
+    height: 5rem;
+    overflow: auto;
+    /* overflow: hidden; */
+}
+.img_show_top1{
+    width: 6.25rem;
+    float: left;
+}
+.img_show_top2{
+    width: 6.25rem;
+    float: right;
+}
+.img_show_button{
+    /* background-color: rgb(100, 78, 52); */
+    width: 12.5rem;
+    height: 5rem;
+    overflow: auto;
+    /* overflow: hidden; */
+}
+.img_show_button1{
+    width: 6.25rem;
+    float: left;
+}
+.img_show_button2{
+    width: 6.25rem;
+    float: right;
+}
+/* 比赛展示 */
+.game_show1{
+    width: 12.5rem;
+    height: 6.25rem;
+}
+.game_show2{
+    width: 12.5rem;
+    height: 6.25rem;
+}
+.game_show3{
+    width: 12.5rem;
+    height: 6.25rem;
+    overflow: hidden;
+}
+.game_show3_left{
+    width: 6.25rem;
+    height: 6.25rem;
+    float: left;
+}
+.game_show3_right{
+    width: 6.25rem;
+    height: 6.25rem;
+    float:right;
+}

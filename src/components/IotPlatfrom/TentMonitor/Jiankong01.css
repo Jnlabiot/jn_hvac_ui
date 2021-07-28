@@ -1,0 +1,26 @@
+.class_jiankong{
+    margin-top: .625rem;
+    float: left;
+    width: 8.75rem;
+  
+   
+}
+
+.class_jiankong>h1{
+    font-size: .375rem;
+    text-align: center;
+}
+.tent_jiankong h1{
+    text-align: center;
+}
+/*监控*/
+.jiankong_1{
+    width: 8.75rem;
+    
+  
+
+}
+.jiankong_1 img{
+    width: 8.75rem;
+    height: 7.5rem;
+}

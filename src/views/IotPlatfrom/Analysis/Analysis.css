@@ -1,0 +1,55 @@
+.analysisbg{
+    background-color: #F0F2F5;
+    width: 100%;
+    height: 100%;
+}
+.space{
+    width: 100%;
+    height: 2%;
+}
+.line1{
+   
+    width: 100%;
+    height: 30%;
+    clear: both;
+}
+        /* .analysis_online{
+            background-color: #fff;
+              float: left;
+              margin-left: 1%;
+              width: 23.75%;
+              height: 100%;
+        }
+        .analysis_message{
+            background-color: #fff;
+            float: left;
+            margin-left: 1%;
+            width: 23.75%;
+            height: 100%;
+        }
+        .analysis_cpu{
+            background-color: #fff;
+            float: left;
+            margin-left: 1%;
+            width: 23.75%;
+            height: 100%;
+        }
+        .analysis_jvm{
+            background-color: #fff;
+            float: left;
+            margin-left: 1%;
+            width: 23.75%;
+            height: 100%;
+        }
+.line_title{
+
+    width: 100%;
+    background-color: #fff;
+    height: 5%;
+}
+.line2{
+    background-color: #fff;
+    margin: 0 auto;
+    width: 98%;
+    height: 60%;
+} */

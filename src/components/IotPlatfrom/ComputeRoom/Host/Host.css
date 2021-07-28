@@ -1,0 +1,47 @@
+.Host{
+    display: inline;
+}
+.Host table {
+    border-collapse: collapse;
+    text-align: center;
+
+}
+.Host table, td, th {
+    border: 1px solid black;
+
+}
+
+/* 表格高度 */
+.hosttop1{
+    display: inline;
+    position: absolute;
+    top: 4.75rem;
+    font-size: .15rem;
+}
+.hosttop2{
+    display: inline;
+    position: absolute;
+    top: 6.5rem;
+    font-size: .15rem;
+}
+.hosttop3{
+    display: inline;
+    position: absolute;
+    top: 8.0875rem;
+    font-size: .15rem;
+}
+
+.hostleft{
+    left: 5rem;
+}
+.host_width{
+    width: 5rem;
+}
+/* 颜色 */
+.bg_bule{
+    background-color: #0080ff;
+    color: #ffffff;
+}
+.bg_white{
+    background-color: #ffffff;
+}

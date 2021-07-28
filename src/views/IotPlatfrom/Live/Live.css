@@ -1,0 +1,30 @@
+.live_bg{
+    /* background-color: blanchedalmond; */
+    width: 100%;
+    height: 100%;
+}
+.live_title{
+    text-align: center;
+    height: 5%;
+}
+.live_contain{
+    width: 100%;
+    height: 94%;
+    clear: both;
+
+}
+.live_left{
+    float: left;
+    margin-left: 1%;
+    width: 49%;
+    height: 100%;
+}
+.live_right{
+    /* 左右中各1% */
+    float: right;
+    margin-right: 1%;
+    width: 48%;
+    height: 100%;
+    /* background-color: brown; */
+}
+   

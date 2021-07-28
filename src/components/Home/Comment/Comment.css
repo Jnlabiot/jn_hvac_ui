@@ -1,0 +1,143 @@
+/* 总的大小 */
+.comment{
+   
+    /* background-color: cadetblue; */
+    width: 100%;
+    height: 5rem;
+}
+.conmmentlist{
+    /* background-color: cornflowerblue; */
+    text-align: center;
+    background-color: #F8F8F8;
+    width: 100%;
+    height: 200px;
+}
+.conmmentlist{
+    list-style: none;
+    font-size: .25rem;
+}
+/* 用户列表评论 */
+.list1{
+    padding: 50px 0;
+    margin: 0px auto;
+    display: none;
+}
+.list2{
+    padding: 50px 0;
+    margin: 0px auto;
+    display: none;
+}
+
+/* 用户头像列表 */
+.userphotos{
+    /* background-color: rgb(226, 98, 226); */
+    width: 100%;
+    height: 50%;
+    font-size: .1875rem;
+    color: black;
+}
+/* 用户1 */
+.contain1{
+    /* 透明度 */
+    
+    margin-left: 10%;
+    float: left;
+}
+.photos1{
+    position: relative;
+    /* background-color: darkgoldenrod; */
+    width: 3.75rem;
+    height: 1rem;
+}
+.v1{
+    width: 1rem;
+    height: 1.875rem;
+    /* border-radius: 50%; */
+}
+.name1{
+    position: absolute;
+    top: .125rem;
+    left: 1.5rem;
+}
+.work1{
+    position: absolute;
+    top: .625rem;
+    left: 1.25rem;
+}
+
+/* 用户2 */
+.contain2{
+    float: left;
+}
+.photos2{
+    position: relative;
+    /* background-color: rgb(51, 230, 90); */
+    width: 3.75rem;
+    height: 1rem;
+}
+.v2{
+    width: 1rem;
+    height: 1.875rem;
+    /* border-radius: 50%; */
+}
+.name2{
+    position: absolute;
+    top: .125rem;
+    left: 1.5rem;
+}
+.work2{
+    position: absolute;
+    top: .625rem;
+    left: 1.25rem;
+}
+
+/* 用户3 */
+.contain3{
+    float: left;
+}
+.photos3{
+    position: relative;
+    /* background-color: rgb(233, 81, 145); */
+    width: 3.75rem;
+    height: 1rem;
+}
+.v3{
+    width: 1rem;
+    height: 1rem;
+    border-radius: 50%;
+}
+.name3{
+    position: absolute;
+    top: .125rem;
+    left: 1.5rem;
+}
+.work3{
+    position: absolute;
+    top: .625rem;
+    left: 1.25rem;
+}
+/* 用户4 */
+.contain4{
+    float: left;
+}
+.photos4{
+    position: relative;
+    /* background-color: rgb(235, 152, 45); */
+    width: 3.75rem;
+    height: 1rem;
+}
+.v4{
+    width: 1rem;
+    height: 80px;
+    border-radius: 50%;
+}
+.name4{
+    position: absolute;
+    top: .125rem;
+    left: 1.5rem;
+}
+.work4{
+    position: absolute;
+    top: .625rem;
+    left: 1.25rem;
+}

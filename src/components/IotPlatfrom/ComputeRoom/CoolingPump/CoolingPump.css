@@ -1,0 +1,34 @@
+.CoolingPump{
+    display: inline;
+    
+}
+.CoolingPump table {
+    border-collapse: collapse;
+    color: black;
+    font-size: .15rem;
+
+}
+.CoolingPump table, td, th {
+    border: 1px solid black;
+
+}
+
+/* 三个表格高度 */
+.coolingtop1{
+    display: inline;
+    position: absolute;
+   top: 5.25rem;
+}
+.coolingtop2{
+    display: inline;
+    position: absolute;
+    top: 6.8125rem;
+}
+.coolingtop3{
+    display: inline;
+    position: absolute;
+    top: 8.4375rem;
+}
+.coolingleft{
+    left: 2.875rem;
+}

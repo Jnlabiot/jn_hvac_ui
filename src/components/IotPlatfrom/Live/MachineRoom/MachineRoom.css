@@ -1,0 +1,71 @@
+.live_right_bottom{
+    position: relative;
+    /* width: 100%; */
+    /* width: 810px; */
+    width: 10.125rem;
+    height: 55%;
+    background-color: #fff;
+    border: black solid 1px;
+   
+}
+    .suanfa{
+      position: absolute;
+      top: 80%;
+      left: 3.75rem;
+      overflow: hidden;
+      /* background-color: black; */
+     
+    }       .shuiwen{
+               text-align: center;
+           }
+         .shuiwen1{
+             transform: scale(0.95);
+             position: absolute;
+             font-size: .15rem;
+             top: 1.25rem;
+             left: 2.625rem;
+         }
+         .shuiwen2{
+            transform: scale(0.95);
+            position: absolute;
+            font-size: .15rem;
+            top: 2.875rem;
+            left: .625rem;
+        }
+        .shuiwen3{
+            transform: scale(0.95);
+            position: absolute;
+            font-size: .15rem;
+            top: 2rem;
+            left: 5.375rem;
+        }
+        .shuiwen4{
+            transform: scale(0.95);
+            position: absolute;
+            font-size: .15rem;
+            top: 3.5rem;
+            left: 6.125rem;
+        }
+        .shuiwen5{
+            transform: scale(0.95);
+            position: absolute;
+            font-size: .15rem;
+            top: 1.625rem;
+            left: 8.5rem;
+        }
+        .shuiwen6{
+            transform: scale(0.95);
+            position: absolute;
+            font-size: .15rem;
+            top: 1.25rem;
+            left: 7.5rem;
+        }
+         .suanfa_MAE{
+             float: left;
+         }
+         .suanfa_EER{
+             float: left;
+             margin-left: 10px;
+         }
+
+

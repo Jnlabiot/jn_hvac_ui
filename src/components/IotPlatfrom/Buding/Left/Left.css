@@ -1,0 +1,140 @@
+.huang_1 ul{
+    width: 1.25rem;
+    height: 1.25rem;
+    margin: 0;
+   padding: 0;
+   position: absolute;
+  list-style: none;
+  display: inline-block;
+  background-color: #708f8d;
+  border-radius: .078125rem;
+ 
+  font-size: .21875rem;
+  transform: scale(0.54);
+}
+/* 第一层 */
+.huang001{
+    width: 5.25rem;
+    /* background-color: aqua; */
+    position: absolute;
+    top: 9.8rem;
+    left: .375rem;
+    clear: both;
+}
+.huang001 h3{
+ transform: scale(0.6);
+}
+/* 第二层 */
+.huang002{
+    width: 5.25rem;
+    /* background-color: aqua; */
+    position: absolute;
+    top: 8.875rem;
+    left: .375rem;
+    clear: both;
+}
+.huang002 h3{
+ transform: scale(0.6);
+}
+/* 第三层 */
+.huang003{
+    width: 5.25rem;
+    /* background-color: aqua; */
+    position: absolute;
+    top: 8.1125rem;
+    left: .375rem;
+    clear: both;
+}
+.huang003 h3{
+ transform: scale(0.6);
+}
+/* 第四层 */
+.huang004{
+    width: 5.25rem;
+    /* background-color: aqua; */
+    position: absolute;
+    top: 7.3125rem;
+    left: .375rem;
+    clear: both;
+}
+.huang004 h3{
+ transform: scale(0.6);
+}
+/* 第五层 */
+.huang005{
+    width: 5.25rem;
+    /* background-color: aqua; */
+    position: absolute;
+    top: 6.5rem;
+    left: .375rem;
+    clear: both;
+}
+.huang005 h3{
+ transform: scale(0.6);
+}
+.huanghaochuan104{
+  
+ float: left;
+ margin-left: .375rem;
+ font-size: .15rem;
+ 
+}
+.huanghaochuan103{
+   
+    float: left;
+    margin-left: .875rem;
+    font-size: .15rem;
+}
+.huanghaochuan102{
+    float: left;
+    margin-left: 1.5rem;
+    font-size: .15rem;
+}
+.huanghaochuan101{
+    float: left;
+    margin-left: 1rem;
+    font-size: .15rem;
+}
+/* 黄浩川 第一层，和高楼层又冲突,位置不太一样*/
+.huang101_left{
+    left: .3125rem;
+}
+.huang102_left{
+    left: 1.53125rem;
+}
+.huang103_left{
+    left: 3.25rem;
+}
+.huang104_left{
+    left: 4.4375rem;
+}
+/* 第二层到第五层都能用 */
+.huang201_left{
+    left: .3125rem;
+}
+.huang202_left{
+    left: 1.515625rem;
+}
+.huang203_left{
+    left: 3.1875rem;
+}
+.huang204_left{
+    left: 4.40625rem;
+}
+/* 第一层 */
+.huang1_top{
+    top: 9.6875rem;
+}
+.huang2_top{
+    top: 8.75rem;
+}
+.huang3_top{
+    top: 7.96875rem;
+}
+.huang4_top{
+    top: 7.1875rem;
+}
+
+.huang5_top{
+    top: 6.40625rem;
+}

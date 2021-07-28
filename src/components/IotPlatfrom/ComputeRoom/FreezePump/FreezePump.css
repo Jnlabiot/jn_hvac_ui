@@ -1,0 +1,34 @@
+.freezePump{
+    display: inline;
+    
+}
+.freezePump table {
+    border-collapse: collapse;
+    color: black;
+    font-size: .15rem;
+
+}
+.freezePump table, td, th {
+    border: 1px solid black;
+
+}
+
+/* 三个表格高度 */
+.freezetop1{
+    display: inline;
+    position: absolute;
+   top: 5.25rem;
+}
+.freezetop2{
+    display: inline;
+    position: absolute;
+    top: 6.8125rem;
+}
+.freezetop3{
+    display: inline;
+    position: absolute;
+    top: 8.4375rem;
+}
+.freezeleft{
+    left: 13.75rem;
+}
