@@ -16,6 +16,7 @@ npm config set registry https://registry.npm.taobao.org
 + nodeJs V14.x
 + npm V6.x
 + Chrome v80.0+
+本项目基于本项目基于Ant Design of Vue 1.7.x开发,二次开发需要对Ant Design of Vue有一定基础。
 
 ### 修改后台接口 public/config.js
 ```javascript
