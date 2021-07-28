@@ -6,7 +6,11 @@ $ cd main
 $ npm install
 $ npm start         # visit http://localhost:8000
 ```
+### 安装之前，推荐使用淘宝镜像源，npm默认是从国外源下载的会很慢，
+```javascript
+npm config set registry https://registry.npm.taobao.org
 
+```
 ## 所有的包都记录在peckage.json文件中，您只要按如下操作就可以安装全部需要的包
 ```
 npm install
