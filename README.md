@@ -78,6 +78,8 @@ window.g={
 #### 教室实时温度场分析
 ![教室实时温度场分析](https://github.com/Jnlabiot/jn_hvac_ui/blob/main/src/assets/github_img/01.jpg)
 #### 教学楼传感器
-![教学楼传感器](https://github.com/Jnlabiot/jn_hvac_ui/blob/main/src/assets/github_img/02.png)
+<img src="https://github.com/Jnlabiot/jn_hvac_ui/blob/main/src/assets/github_img/02.png" width="83%">
+
 #### 设备管理
-![设备管理](https://github.com/Jnlabiot/jn_hvac_ui/blob/main/src/assets/github_img/03.png)
+<img src="https://github.com/Jnlabiot/jn_hvac_ui/blob/main/src/assets/github_img/03.png" width="83%">
+
