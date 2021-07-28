@@ -3,7 +3,7 @@
 ## 使用
 ```javascript
 $ git clone https://github.com/Jnlabiot/jn_hvac_ui.git
-$ cd main
+$ cd jn_hvac_ui-main
 $ npm install
 $ npm start         # visit http://localhost:8000
 ```
