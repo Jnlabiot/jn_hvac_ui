@@ -1,4 +1,4 @@
-# 匠能hvac前端
+# 匠能智控hvac前端
 
 ## 使用
 ```javascript
